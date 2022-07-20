@@ -1,0 +1,413 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Antigos_PG-Direita {
+	border-style:solid;
+	background-color:#ffffff;
+}
+div.Antigos_PG-Esquerda {
+	border-style:solid;
+	background-color:#ffffff;
+}
+table.Tabela-b-sica {
+	border-collapse:collapse;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
+}
+td.Tabela-b-sica {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+p.Cap-tulo {
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.T-tulo-02 {
+	color:#0080c9;
+	font-family:"Frutiger LT Std 45 Light", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.182;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:17px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.T-tulo-03-margem {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.182;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:11px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.T-tulo-04 {
+	-epub-hyphens:none;
+	color:#ea504e;
+	font-family:Arial, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.182;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.T-tulo-04-margem {
+	-epub-hyphens:none;
+	color:#ea504e;
+	font-family:Arial, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.182;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+li.bullet-texto-inicial {
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	list-style-position:outside;
+	margin-bottom:0;
+	margin-left:28px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+li.questao-a- {
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	list-style-position:outside;
+	list-style-type:lower-alpha;
+	margin-bottom:3px;
+	margin-left:20px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.texto {
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:20px;
+	text-transform:none;
+	widows:1;
+}
+p.texto-recuo-7mm {
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:3px;
+	margin-left:20px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.annotation-reference {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:8px;
+	font-style:normal;
+	font-weight:normal;
+}
+td.CellOverride-1 {
+	background-color:#ea504e;
+	border-bottom-color:#ffffff;
+	border-left-color:#ffffff;
+	border-right-color:#ffffff;
+	border-top-color:#ffffff;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-2 {
+	background-color:#f6b0a2;
+	border-bottom-color:#ffffff;
+	border-left-color:#ffffff;
+	border-right-color:#ffffff;
+	border-top-color:#ffffff;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+p.ParaOverride-1 {
+	text-indent:14px;
+}
+p.ParaOverride-2 {
+	text-align:center;
+	text-indent:0px;
+}
+p.ParaOverride-3 {
+	margin-bottom:6px;
+	text-indent:0px;
+}
+li.ParaOverride-4 {
+	text-align:left;
+	text-indent:0px;
+}
+p.ParaOverride-5 {
+	text-align:left;
+}
+p.ParaOverride-6 {
+	margin-left:20px;
+	text-indent:0px;
+}
+p.ParaOverride-7 {
+	margin-top:6px;
+}
+li.ParaOverride-8 {
+	text-indent:0px;
+}
+li.ParaOverride-9 {
+	margin-bottom:0px;
+	text-indent:0px;
+}
+li.ParaOverride-10 {
+	margin-bottom:0px;
+	text-align:left;
+	text-indent:0px;
+}
+p.ParaOverride-11 {
+	margin-bottom:0px;
+}
+li.ParaOverride-12 {
+	margin-top:6px;
+	text-indent:0px;
+}
+li.ParaOverride-13 {
+	margin-top:60px;
+	text-indent:0px;
+}
+p.ParaOverride-14 {
+	margin-bottom:0px;
+	text-align:left;
+}
+span.CharOverride-1 {
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-2 {
+	font-family:Calibri, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-4 {
+	color:#ffffff;
+	font-size:7px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-5 {
+	font-size:7px;
+}
+span.CharOverride-6 {
+	font-family:Symbol, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-7 {
+	font-size:58%;
+	vertical-align:super;
+}
+span.CharOverride-8 {
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	font-size:9px;
+}
+span.CharOverride-10 {
+	font-family:Symbol, sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:normal;
+}
+col._idGenTableRowColumn-1 {
+	width:62px;
+}
+col._idGenTableRowColumn-2 {
+	width:82px;
+}
+tr._idGenTableRowColumn-3 {
+	min-height:19px;
+}
+tr._idGenTableRowColumn-4 {
+	min-height:11px;
+}
+#_idContainer001, #_idContainer002, #_idContainer004, #_idContainer005, #_idContainer008, #_idContainer009 {
+	display:inline-block;
+	height:569px;
+	width:424px;
+}
+#_idContainer011, #_idContainer012, #_idContainer014, #_idContainer015, #_idContainer017, #_idContainer018, #_idContainer021, #_idContainer022, #_idContainer024, #_idContainer025, #_idContainer027, #_idContainer028 {
+	display:inline-block;
+	height:571px;
+	width:424px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	height:70px;
+	width:122px;
+}
+img._idGenObjectAttribute-3 {
+	height:70px;
+	width:110px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}

@@ -1,0 +1,36 @@
+.layoutManual{
+    display: flex;
+    grid-template-columns: (2,1fr);
+}
+.layoutCentral{
+    display: grid;
+    background-color: rgb(253,227,219);
+}
+.layoutLateral{
+    background-color: rgb(252,211,199);
+}
+.container{
+    width: 600px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.negrito{
+	color:#000000;	
+	/*font-family:Arial, sans-serif;*/
+	font-size:10px;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
